@@ -3,6 +3,7 @@ description: Create a bug report
 title: "[BUG] <title>"
 labels: ["bug", "needs triage"]
 type: bug
+assignees: ['changeme']
 body:
 - type: checkboxes
   attributes:
