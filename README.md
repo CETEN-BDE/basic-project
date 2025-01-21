@@ -24,6 +24,10 @@ More specific templates will be available later for more specialized projects (b
 2. **Check the "Include all branches" checkbox**
 3. Follow the next steps to setup the newly created repository
 
+### Update the issue templates
+
+Change the assignees for each issue template in the [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE) folder.
+
 ### Update the README
 
 The easiest way to use this README template is with a text editor that supports replacing strings with regexp (eg. vscode).
