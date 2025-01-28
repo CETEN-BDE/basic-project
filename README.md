@@ -15,14 +15,16 @@ More specific templates will be available later for more specialized projects (b
 - README.md template with badges
 - Issue labels
 - Issue templates (soon)
-- Git flow structure
 - Branch protection rules
 
 ## How to use this template
 
 1. Click on the "Use this template" button on the top right of the repo's page.
-2. **Check the "Include all branches" checkbox**
 3. Follow the next steps to setup the newly created repository
+
+### Git flow and branch protections
+
+To follow the git flow structure, create a branch named main, and import the rulesets located in the `rulesets` folder. You can delete the folder after importing.
 
 ### Update the issue templates
 
